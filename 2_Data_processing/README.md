@@ -22,4 +22,4 @@
 
 ## Используемые инструменты
 
-`pandas` `numpy` `pymystem3` `collections` `math`
+`pandas`
