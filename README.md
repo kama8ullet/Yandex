@@ -21,3 +21,8 @@
 |13. [Обучение модели классификации комментариев (Обработка естественного языка)](https://github.com/kama8ullet/Yandex/blob/main/13_Natural_language/Natural_language.ipynb)|Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Для этого необходимо обучить модель классифицировать комментарии на позитивные и негативные.| `spacy` `SVC` `pymystem3` `re` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `plotly` `math`|Завершён|
 |14. [Обработка фотографий покупателя (Computer vision)](https://github.com/kama8ullet/Yandex/blob/main/14_Computer_vision/Computer_vision.ipynb)|Определение возраста по фотографии для нужд сети супермаркетов, чтобы можно было проверять добросовестность продавцов и делать целевые предложения своим покупателям. |`Keras` `TensorFlow` `Adam` `ResNet50` `ImageDataGenerator` `Seaborn` `PIL` `Pandas` `Matplotlib` `plotly` `NumPy`|Завершён|
 |15. [Прогнозирование оттока клиентов (Final project)](https://github.com/kama8ullet/Yandex/blob/main/15_telecom_customer_churn/Telecom_customer_churn.ipynb)|В данном проекте необходимо создать модель, способную предсказать уйдет ли клиент, дабы предложить ему дополнительные условия|`Seaborn` `Pandas` `Matplotlib` `NumPy` `Scikit-learn` `CatBoost`|Завершён|
+
+# Диплом
+
+[![Kirill's degree](./assets/Yandex_degree_1.png)]
+[![Kirill's degree2](./assets/Yandex_degree_2.png)]
