@@ -24,5 +24,5 @@
 
 # Диплом
 
-[![Kirill's degree](./assets/Yandex_degree_1.png)]
-[![Kirill's degree2](./assets/Yandex_degree_2.png)]
+![Kirill's degree](https://github.com/kama8ullet/kama8ullet/blob/main/assets/Yandex_degree_1.png?raw=true)
+![Kirill's degree2](https://github.com/kama8ullet/kama8ullet/blob/main/assets/Yandex_degree_2.png?raw=true)
